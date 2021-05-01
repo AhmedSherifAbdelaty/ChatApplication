@@ -1,0 +1,2 @@
+username = ahmed & password = $2a$10$8xAv7qKuAOLjqZovr2AeMOpcC2wAkO09s5PXS07XVinMV6s.WJou6
+username = guest & password = $2a$10$qXN.oxaWOsZj7XvePw2Bm.pRaiy1.1b2/jysvagR6NCR2.ioUkOGa
